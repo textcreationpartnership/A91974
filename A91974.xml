@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer unto thirty quæries propounded by those who by the world (as they say) are scornfully called Quakers. By Thomas Rosewell, a witness to the truth, as it is in Jesus.</title>
+            <author>Rosewell, Thomas, 1630-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91974</idno>
+            <idno type="STC">Wing R1941</idno>
+            <idno type="STC">Thomason E892_5</idno>
+            <idno type="STC">ESTC R206554</idno>
+            <idno type="EEBO-CITATION">99865681</idno>
+            <idno type="PROQUEST">99865681</idno>
+            <idno type="VID">117930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117930)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E892[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer unto thirty quæries propounded by those who by the world (as they say) are scornfully called Quakers. By Thomas Rosewell, a witness to the truth, as it is in Jesus.</title>
+                  <author>Rosewell, Thomas, 1630-1692.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November] 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117930:1"/>
+            <pb facs="tcp:117930:1" rendition="simple:additions"/>
+            <p>AN ANSWER UNTO Thirty Quaeries Propounded by thoſe who by the World (as they ſay) are ſcornfully called QUAKERS.</p>
+            <p>By <hi>THOMAS ROSEWELL,</hi> A Witneſs to the Truth, as it is in Jeſus.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117930:2"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>I Thought good to acquaint thee, that I was earneſtly deſired by a loving Friend to give an Anſwer to theſe <hi>Quaeries:</hi> Which I have done according to the meaſure of the grace of Chriſt, and the illuminati<g ref="char:EOLhyphen"/>on of his bleſſed Spirit. And if thou haſt received an <hi>Unction from the Holy One,</hi> to wit, the <hi>anointing</hi> of the Spirit, then ſhalt thou be able to <hi>ſearch out all things, yea the deep things of God,</hi> 1 Joh. 2.20.27. compared with 1 Cor. 2.10. And ſurely, we have great need (in this later Age) of Gods eye-ſalve for the anointing of our eyes; conſidering, that as there is a <hi>Myſtery of Godli<g ref="char:EOLhyphen"/>neſs, which is great,</hi> 1 Tim. 2.16. ſo is there a <hi>Myſtery of Iniquity</hi> alſo, which works with <hi>all deceiveableneſs of unrighteouſneſs,</hi> 2 Theſſ. 2.7.10 Sathan is a very cunning Sophiſter, and knows how to <hi>transform him<g ref="char:EOLhyphen"/>ſelf into an Angel of Light. Therefore it is no great thing, if his Miniſters alſo be transformed as the Mini<g ref="char:EOLhyphen"/>ſters of righteouſneſs,</hi> 2 Cor. 11.15. Conſider then what is ſaid, and <hi>the Lord give thee underſtanding in all things.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117930:2"/>
+            <head>AN ANSWER unto Thirty Queries propounded by thoſe called QUAKERS.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>S the Scripture the Light, or a Declaration of it?</hi>
+            </p>
+            <p>Suppoſing that by <hi>Scripture</hi> you underſtand the written Word of God contained in the Books of <hi>Moſes,</hi> the Prophets, Apoſtles, and Holy men of God, who were the Pen-men thereof, and gave it forth by inſpiration of God, 2 <hi>Tim.</hi> 3.16. and 2 <hi>Pet.</hi> 1.21. And that by Light you underſtand, the Lord Jeſus Chriſt who is ſaid to be <hi>the Light that ſhineth in darkneſs, Joh.</hi> 1.5. And <hi>the true Lights which lighteth every man that cometh into the World,</hi> John 1.9. And <hi>the Light of the world, Joh.</hi> 8.12.12.46.</p>
+            <p>I Anſwer firſt, That the Scripture is a light, <hi>Pſal.</hi> 119.105, 130. 2 <hi>Pet</hi> 1.19.</p>
+            <p>Secondly, It is a declaration of the light (that is) of Chriſt the true light, <hi>Iſa,</hi> 9.6. <hi>Luk.</hi> 1.70. <hi>Rom.</hi> 1 3, 4. 2 <hi>Cor.</hi> 4.6. <hi>Gal.</hi> 4.4, 5. 1 <hi>Tim.</hi> 3.16.</p>
+            <p n="2">2. <hi>Is the Scripture the Word, or a declaration of it?</hi>
+            </p>
+            <p>I anſwer, If you underſtand by the word (Chriſt) <hi>the Word that was in the beginning with God, the Word that was with God, and the Word that was God,</hi> Joh. 1.1, 2. So the Scripture is onely a declaration of that word, that is, a Declaration of Chriſt.</p>
+            <p n="3">3. <hi>What is the Goſpel?</hi>
+            </p>
+            <p>The Goſpel hath various, ſignifications or underſtandings in Scrip<g ref="char:EOLhyphen"/>ture, all pointing and referring unto Chriſt, who as <hi>he is the end of the Law for righteouſneſs to every one that beleeveth,</hi> ſo may he be ſaid to be the very ſum &amp; ſubſtance of the Goſpel, in that all the Types, and Shadows, and Sacrifices, all the Prophecies and Promiſes, both under the Law
+<pb n="2" facs="tcp:117930:3"/>and the Goſpel are all, and ſhall be fulfilled and conſummated in him, <hi>Rom</hi> 10 4. 2 <hi>Cor.</hi> 1.10. But more particularly, it is (in my underſtanding) the <hi>glad tidings of ſalvation by Chriſt, Iſa.</hi> 40.9.52 7.61.1. <hi>Luk.</hi> 2.10, 11. <hi>Rom.</hi> 10.15. called the Goſpel of God, <hi>Rom.</hi> 1.1. The glorious Goſpel of the bleſſed God, 1 <hi>Tim.</hi> 1.11. The Goſpel of the grace of God, <hi>Act.</hi> 20.24. The Goſpel of Chriſt, <hi>Ro.</hi> 1.16. The Goſpel of the Kingdom, <hi>Mat.</hi> 4.23. The Goſpel of peace, <hi>Eph.</hi> 6.15. The Goſpel of our ſalvation <hi>Eph.</hi> 1.13. Or the power of God unto ſalvation, <hi>Rom.</hi> 1 16.</p>
+            <p n="4">4. <hi>What is the firſt Principle of the pure Religion?</hi>
+            </p>
+            <p>To give a cleer and full Anſwer to this Queſtion, I would know what you underſtand by the firſt Principle of the pure Religion? If you mean the firſt Principles of the Oracles of God, ſpoken of in <hi>Heb</hi> 5.12. which afterwards in the firſt verſe of the ſixth Chapter are called the Principles of the doctrine of Chriſt, theſe firſt Principles are there particularly mentioned and expreſſed, namely, 1. <hi>Repentance from dead works;</hi> 2. <hi>Faith towards</hi> God; 3. <hi>The doctrine of Baptiſms;</hi> 4. <hi>The doctrine of Laying on of hands,</hi> 5. <hi>The doctrine of the Reſurrection of the Dead;</hi> and, 6. <hi>The doctrine of Eternal Judgment.</hi> And if you would know what the pure Religion is, the Apoſtle <hi>James</hi> doth tell you, <hi>Jam.</hi> 1.27. <hi>Pure religion and undefiled be<g ref="char:EOLhyphen"/>fore God and the Father is this, to viſit the fatherleſs and widows in their af<g ref="char:EOLhyphen"/>fliction, and to keep ones ſelf unſpoiled from the world.</hi>
+            </p>
+            <p n="5">5. <hi>May not a man have the Scripture, and yet be ignorant of the myſtery of Chriſt, yea or nay?</hi>
+            </p>
+            <p>I anſwer, yea; if you mean by having the Scripture, a mans having of it in his houſe, or in his pocket, or at beſt in his brain only, and not having it in the heart, as to the ſanctifying and purifying thereof, <hi>Joh.</hi> 17.17. So a man may have the Scripture, and yet be ignorant of the myſtery of Chriſt. The Sadduces had the Scriptures in the firſt ſenſe; and yet our bleſſed Saviour ſaid unto them, <hi>Ye do erre, not know<g ref="char:EOLhyphen"/>ing the Scriptures, nor the power of God,</hi> Mat. 22.29. Mar. 12.24 27. <hi>And it is given to you</hi> (ſaith he, ſpeaking unto his Diſciples) <hi>to know the myſteries of the Kingdom of Heaven, but unto thim</hi> (the multitude of un<g ref="char:EOLhyphen"/>believers) <hi>it is not given.</hi> And according to this underſtanding, I ſhall anſwer many of your following <hi>Quaeries.</hi>
+            </p>
+            <p n="6">6. <hi>May not a man have the Scripture, and not believe in the Light?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="7">7. <hi>May not a man have the Scripture, and not know the way to the Father?</hi>
+            </p>
+            <p>Yea See <hi>Joh.</hi> 14 6.</p>
+            <p n="8">8. <hi>May not a man (as the Phariſees had) have the Scripture, and not know the Word, and not know the Light?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="9">9. <hi>May not a man have the Scripture, and not know the Truth?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="10">10. <hi>May not a man have the Scripture, and not know the Life?</hi>
+            </p>
+            <p>Yea.</p>
+            <pb n="3" facs="tcp:117930:3"/>
+            <p n="11">11 <hi>Was not the Scripture given forth from the Spirit of God?</hi>
+            </p>
+            <p>Yea, <hi>All Scripture is given by inſpiration of God,</hi> 2 Tim. 3 16. <hi>And holy men of God ſpake as they were moved by the Holy Ghoſt,</hi> 2 Pet 1.21.</p>
+            <p n="12">12. <hi>And can any know the Scripture without the Spirit?</hi>
+            </p>
+            <p>No, not effectually and ſavingly without the Spirit: <hi>It is the Spirit that ſearcheth all things, yea, the deep things of God,</hi> 1 Cor. 2 10.</p>
+            <p n="13">13. <hi>And hath not every man a manifeſtation of the Spirit given him to profit withall?</hi>
+            </p>
+            <p>To this I anſwer, That every man that hath the Spirit of God, hath the manifeſtation of that Spirit; and <hi>the manifeſtation of the Spirit</hi> (that is, of the Spirit of God) <hi>is given to every man to profit withall,</hi> 1 Cor. 12.7. But every man hath not the Spirit of God or of Chriſt, Rom. 8 9. And where the Spirit of Chriſt is not given, there can be no manifeſtation of that Spirit. The fire is manifeſted by its heat, and the Sun by the light thereof.</p>
+            <p n="14">14. <hi>Are not all in confuſion, who are not led by the Spirit the Scriptures were given forth from?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="15">15. <hi>May not a man have the Scripture, and not know the Goſpel which is the power of God?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="16">16. <hi>Doth not Chriſt enlighten every man that comes into the world with a true light?</hi>
+            </p>
+            <p>Before I give an Anſwer unto this Queſtion, I might ask you what you mean by a true light? If you mean the light of Nature, or the light of a natural Conſcience, that may not altogether improperly (I ſuppoſe) be ſaid to be a true Light; and with this every man is lighted by Chriſt that comes into the world, either more or leſs. For <hi>Paui</hi> ſpeaking con<g ref="char:EOLhyphen"/>cerning the Gentiles, tells us, That <hi>the work of the Law was written in their hearts, their Conſcience alſo hearing witneſs, and their thoughts the mean while accuſing or excuſing one another,</hi> Rom. 2.15. which muſt be upon the account of doing well or ill: And ſurely every man hath natu<g ref="char:EOLhyphen"/>rally in himſelf an acquitting or condemning conſcience, <hi>Joh</hi> 8.9. For what conſcience is there ſo feared, that hath not at one time or other ſome convictions for ſin? But yet the natural Light comparatively to the ſpiritual m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Light, is but a dimn Light, and the natural Conſcience at the beſt is a dark, impure, and defiled Conſcience. <hi>The natural man re<g ref="char:EOLhyphen"/>ceives not the things of the Spirit of God, for they are fooliſhneſs unto him, neither can he know them, becauſe they are ſpiritually diſcerned,</hi> 1 Cor. 2 14. <hi>And unto them that are undefiled and unbelieving is nothing pure, but even their mind and conſcience is defiled,</hi> Tit 1 15. So then there is another kind of Light, wherewith the ſpiritual man is inlightened by Chriſt, which is cleerly diſtinguiſhed from the Light of Nature, or mans natural Light: <hi>Ye were ſometimeſ darkneſs, but now are ye light in the Lord; walk as children of the light,</hi> Eph. 5.8. <hi>Who hath called you out of darkneſs into his marvellous light,</hi> 1 Pet. 2, 9. So, <hi>God who commanded the light to ſhine out of darkneſs,
+<pb n="4" facs="tcp:117930:4"/>hath ſhined into our hearts to give the Light of the knowledge of the Glory of God in the face of Ieſus Chriſt.</hi> 2 Cor. 4.6. What a clear diſtinction is here betwixt the one and the other. Iohn ſaith alſo, <hi>That the darkneſs is paſt, and the true light now ſhineth.</hi> 1 Iohn 2.8. And ſpeaking of him that hateth his Brother ſaith, that <hi>he is in darkeneſs and walketh in darke<g ref="char:EOLhyphen"/>neſs, and knoweth not whither he goeth, becauſe that darkeneſs hath blinded his eyes.</hi> And very remarkcable is that of our bleſſed Saviour who ſaith, <hi>If the light that is in thee, be darkeneſs, how great is that darkeneſs?</hi> Matt. 6.23.</p>
+            <p>So then, underſtanding by the true Light, the Light of the new Creature, or the ſpirituall mans Light, which gives unto us the know<g ref="char:EOLhyphen"/>ledge of God in the ſace of Ieſus Chriſt. Then I do affirme, That Chriſt doth not enlighten every man that comes into the world with this true Light. For ſuch as have not the ſpirit of Chriſt (as all men have not, Rem. 8.9. Jud. 19.) Such have not the ſpirits Illumination, I mean as to a through converſion and change of the whole man: <hi>Paul</hi> bids the beleeving Hebrewes <hi>To call to remembrance the former daies, in which after they were illuminated, they endured a great fight of Affliction.</hi> Heb. 10.32. And to conclude with what <hi>David</hi> ſpeaks in Pſal. 18.28. Thou (faith he) meaning the Lord) <hi>wilt light my Candle, the Lord my God will lighten my darkeneſs.</hi> And in 36 Pſal, verſe 9. <hi>For with thee (ſaith he) is the fountain of Life; and in thy Light ſhall we ſee Light.</hi>
+            </p>
+            <p n="17">17. <hi>Shall he that beleeveth in the Light abide in darkeneſs? yea or nay?</hi>
+            </p>
+            <p>I anſwer, Nay, ſuppoſing that by light, you underſtand the Lord Jeſus Chriſt, then he that beleeveth in that Light abides not in Darke<g ref="char:EOLhyphen"/>neſs: For this is the Lord Chriſts own Affirmation. Ioh. 12.46. <hi>I am come a light into the world, that whoſoever beleeveth in me ſhall not abide in darkeneſs.</hi>
+            </p>
+            <p n="18">18. <hi>Is there any vnity but in the Light, or any friendſhip but in the Light?</hi>
+            </p>
+            <p>I anſwer (if Chriſt be the Light you meane) there is no true unity or friendſhip but in him, if wee ſpeake of a unity that is ſpirituall, divine and heavenly. For Faith doth unite, ingraſt and as it were incorporate us into the Lord Ieſus Chriſt, and brings us into a State of friendſhip and communion with him; But out of Chriſt the (Light) there is nothing but disvnion, ſtrife, diſagreement and confuſion. <hi>The Carnall mind is Enmitie againſt God: For it is not ſubject to the Law of God, neither indeed can bee.</hi> Rom. 8.7. <hi>What fellowſhip hath righteouſneſs with unrigh<g ref="char:EOLhyphen"/>teouſneſs, and what communion hath Light with Darkeneſs.</hi> 2 Cor. 6.14. Yet there may be a unity and league in ſin, a covenant with Death, and an agreement with Hell, Eſa. 28.18. <hi>Your covenant with Death ſhall be diſanulled, and your agreement with Hell ſhal not ſtand</hi>
+            </p>
+            <p n="19">19. <hi>Is there any true beleife, but who do beleeve in the Light?</hi>
+            </p>
+            <p>I anſwer, there is no true beleiſe, but as we beleeve in Chriſt who is the true Light. But it is poſſible for men to beleeve a Lye; <hi>For this
+<pb n="5" facs="tcp:117930:4"/>cauſe God ſhall ſend them ſtrong deluſions that they ſhould beleeve a Lye;</hi> 2 Theſ. 2.11.</p>
+            <p n="20">20. <hi>Are not all in the Error, who doe not beleeve in the Light, and not know the Scriptures nor the power of God.</hi>
+            </p>
+            <p>Yea, the not beleeving in Chriſt the Light, and the ignorance of the Scriptures, and the power of God, is the ground of all Error. Chriſt hath told us that <hi>Hee is the way, the truth and the Life, and no man cometh unto the Father but by him,</hi> Ich. 14.6. And it was he that ſaid unto the Sadduces, <hi>Ye dee-Erre not knowing the Scriptures nor the power of God.</hi> Math 22. 29. Mark 12.29 <hi>To the Law, and to the Teſtimony</hi> (ſaith the wiſ<g ref="char:EOLhyphen"/>dome of God) <hi>if they ſpeake not according to this word, it is becauſe there is no Light in them.</hi> Eſa 8.20.</p>
+            <p n="21">21. <hi>Did God command that Infants ſhould be ſprinckled, and if he did, ſhew his command by plain Scripture.</hi>
+            </p>
+            <p>I anſwer, I doe not find in Scripture that God did ever command that Infants ſhould be ſprinckled, nor do I find, that there is either a command or example in all the Scriptures for to juſtifie ſuch a practiſe. How juſtly then may this Nation fall under that ſharp reprehenſion of the Lord, <hi>VVho hath required this at your hands.</hi> Eſa. 1.12. <hi>And in vaine they do worſhip me, teaching for doctrines the commandements of men</hi> Math. 15 9.</p>
+            <p n="22">22. <hi>Shall not all them that be gathered together with the Scripture, though they be Elders, Members, or gathered people, and not gathered together with the Spirit of the Lord, be broken by the Spirit of God.</hi>
+            </p>
+            <p>I anſwer, can any be gathered together with the Scripture (I meane <hi>the Scripture of Truth</hi> ſo called, <hi>Dan.</hi> 10, 21.) and not be gathered to<g ref="char:EOLhyphen"/>gether with the Spirit of the Lord? is there any ſuch diſproportion or diſagreement betwixt the Scripture and the Spirit of the Lord as your Queſtion ſeemes to imply? Or is there not a Sweet harmony and conſent between them both, ſo that the gathering togeather with the one, cannot truly and properly exclude the other? When our bleſſed Saviour ſaieth <hi>VVhere two or three are gathered together in my name, there am I in the midſt of them.</hi> Mat. 18.20. Are we to underſtand by the name of Chriſt there, ſuch a gathering togeather by his Spirit, as that the Scripture the word of God is not to be underſtood alſo? <hi>Is it not the word of God which effectually worketh in them that beleeve.</hi> 1 Theſ. 2.13. <hi>Is not the Scripture profitable for Doctrine, for Reproof for Correction, for Inſtruction in righteouſneſs, that the man of God may be perfect, thoroughly furniſhed to all good workes.</hi> 2 Tim. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 16.17? <hi>Is it not the power of God to ſalvation to every one that beleeveth.</hi> Rom. 1.16? <hi>And is it not able to build us up and to give us an inheritance among all them who are ſanctiſied,</hi> Acts 20.32. And ſhall we then imagine that ſuch as are gathered together by the power of this word, ſhall be broken in ſunder by the Spirit of God? Indeed there is an Aſſociation or a gathering together but not by the Lord, which ſhall aſſuredly be broken in peeces, Eſa. 54.15. And as
+<pb n="6" facs="tcp:117930:5"/>there are the Aſſemblyes of the Saints, who are of <hi>the true Circumciſion which worſhip God in Spirit, and rejoyce in Chriſt Jeſus, and have no confidence in the fleſh.</hi> Philip. 3.3. So there are many formall and falſe wor<g ref="char:EOLhyphen"/>ſhipers of God in the world, who gather together upon pretence of Scripture, and ſay perhapps <hi>they are Jewes, and are not, but are the Synagogue of Satan,</hi> as thoſe in <hi>Rev.</hi> 2 9. who cry up themſelves for good Chriſtians, and yet are ſtrangers to the Life of Chriſt having onely <hi>a forme of God<g ref="char:EOLhyphen"/>lineſs, but deny the power thereof.</hi> 2 Tim. 3.5. Theſe alſo in time ſhall be broken in peeces; <hi>For every plant (ſaith Chriſt) which my Heavenly Father hath not planted, ſhall be rooted up.</hi> Matth 15.13. But the ſpeech of <hi>Gamaliel</hi> (me thinkes) is very conſiderable herein (which I deſire you will ſeriouſly mind, as to your own gatherings together.) <hi>If this Councell or this work</hi> (ſaith he) <hi>be of men, it will come to nought. But if it be of God, yee cannot overthrow it.</hi> Acts. 5.38, 39 So ſay I, if ſuch gatherings together be of men, that is, of meer humane authority, or mens Inven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious and Imaginations, perverting the Scriptures (as ſome do) to their own deſtruction, aſſuredly then in a while they will vaniſh and come to nought. But if they be of God, I mean of divine Autho<g ref="char:EOLhyphen"/>rity, and according to the mind of God (as al ſuch are who are congrega<g ref="char:EOLhyphen"/>ted and gathered together by the power of the Scripture, the word and ſpirit of God, then certainly they will not, they cannot be overthrown. Indeed the malice, and perſecutions of men may breake them, or rather ſcatter them aſunder for a while, but the living and eternall truth of God, which dwelleth and abideth in them, ſhall ſtand firme and invio<g ref="char:EOLhyphen"/>lable and that for ever and ever; Even your <hi>Wood, Hay and Stubble,</hi> and all ſuch Combuſtible matter, which ſhall be found amongſt you, (and which you have built or ſhall build (as you pretend) upon <hi>Chriſt that ſure foundation, being revealed and tryed by fire, ſhall be burnt unto your loſs, although your ſelves be ſaved, yet ſo as by fire. Let every man then take heed how he buildeth thereupon.</hi> 1 Cor. 3.10.11.12.13.14.15.</p>
+            <p n="23">23. <hi>And whether every man that cometh into the world, hath not a light which will condemn him, if he doth not beleeve in it?</hi>
+            </p>
+            <p>I Anſwer, That every man that commeth into the world hath a light, that is, a natural light, or a light that God hath placed in nature, being the work of the Law written in their hearts, by the help whereof men may come to the underſtanding of the inviſible things of God, even his eternal power and Godhead, and the not living up to this light may leave men without excuſe, <hi>Rom.</hi> 1.20. and thereby alſo they may come to be condemned in their own conſciences, <hi>Rom.</hi> 2 15. But this light though it may diſcover much of God, yet it will never bring us to the true knowledge of God in Chriſt. And as it is no leſs then <hi>eternal life to know God and Jeſus Chriſt whom he hath ſent,</hi> John 17.3. <hi>who is the true light</hi> in which we are commanded <hi>to beleeve,</hi> if wee will approve our ſelves <hi>the children of light,</hi> Joh. 1 9. Joh. 12.36. In which <hi>light</hi> alſo, if we do <hi>beleeve, we ſhall never periſh but have everlaſting life,</hi> Joh. 3.19.36. So the not beleeving in this light will aſſuredly be the great condemn<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:117930:5"/>ſin. <hi>He that beleeveth not is condemned already,</hi> Joh. 3.18. <hi>And he that beleeveth not the Son ſhall not ſee life, but the wrath of God abideth on him,</hi> Joh. 3.36. It follows then that mens condemnation (unleſs we un<g ref="char:EOLhyphen"/>derſtand a being condemned, as before, in their own conſciences) will not be ſo much for not beleeving in that light, which they bring with them into the world, but for their rejection of, and not beleeving in Chriſt who is the true light, <hi>Joh.</hi> 3.19. <hi>This is the condemnation, &amp;c.</hi>
+            </p>
+            <p n="24">24. <hi>May not a man have the Scripture, and not ſee the door, as the</hi> Pha<g ref="char:EOLhyphen"/>riſees <hi>had?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="25">25. <hi>May not a man have the Scripture, and not ſee the hope of Glory, which is Chriſt the miſtery, as the Phariſees did, who had the Scripture that ſpoke of him that was to come?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="26">26. <hi>May not a man have the Scripture, and be a ſtranger to the life of God?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="27">27. <hi>May not a man have the Scripture, and not know the blood of Jeſus, and have the Scripture, and not know the ſanctification, and the redemp<g ref="char:EOLhyphen"/>tion, nor the juſtification?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="28">28. <hi>Are not theſe who be in the life of the Scripture, different from all the worlds faſhions, worſhips and gatherings; and is not all worſhip in the will, without the Spirit of God?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="29">29. <hi>Is not all humility fained without the Spirit of God?</hi>
+            </p>
+            <p>Yea.</p>
+            <p n="30">30. <hi>And is not all righteouſneſs ſelfiſh, while man lives according to the courſe of the world, and beleeveth not in the light that comes from Chriſt, Gods righteouſneſs.</hi>
+            </p>
+            <p>To this laſt Query, I ſhall give you this Anſwer, and ſhall refer you to my anſwer unto your Fifth Query as to the reſt; I do not find, that any men or women in Scripture do fall under the denomination or ac<g ref="char:EOLhyphen"/>count of righteous perſons in any ſence whatſoever, ſo long as they live according to the courſe of the world, for they that live ſo they live in ſin, and in all licentiouſneſs and unrighteouſneſs, <hi>In the luſts of the fleſh, fulfilling the deſires of the fleſh and of the mind, according to the Prince of the power of the air, the ſpirit that worketh in the children of diſobedience,</hi> as you may ſee in <hi>Epheſ</hi> 2.1, 2, 3. And what ſelfiſh righteouſneſs can there be in ſuch? The Apoſtle <hi>John</hi> ſaith, <hi>That he that doth righteouſneſs is righteous, even as Christ is righteous: But whoſoever doth not righteouſneſs is not of God,</hi> 1 Joh. 3.7, 10. But yet notwithſtanding there may be much ſelfiſh righteouſneſs even in ſuch who live not according to the courſe of the world. This was the righteouſneſs of the Scribes and Phariſees, and this was <hi>Pauls</hi> righteouſneſs, whiles he was a Phariſee, and when in his <hi>zeal he perſecuted the Church;</hi> for he tells us, that <hi>touching the
+<pb n="8" facs="tcp:117930:6"/>righteouſneſs which is in the Law</hi> he was <hi>blameleſs,</hi> Phil. 3.5.6. And that it was a ſelfiſh righteouſneſs, or a righteouſneſs of his own, the ninth verſe of that Chapter makes it very clear, when being convinced of his own filthy or <hi>dunghil</hi> righteouſneſs, he deſires onely to be found in Chriſt, not having his <hi>own righteouſneſs,</hi> which is of the Law, but that which is <hi>through the faith of Chriſt, the righteouſneſs which is of God by ſaith.</hi> And how greatly does he find fault with his Brethren the Iſ<g ref="char:EOLhyphen"/>raelites (as he calls them) whoſe ſalvation he did ſo affectionately de<g ref="char:EOLhyphen"/>ſire and pray for, for that, they had a <hi>zeal of God, but not according to knowledge;</hi> And for that, <hi>they being ignorant of Gods righteouſneſs, and go<g ref="char:EOLhyphen"/>ing about to eſtabliſh their own righteouſneſs, did not ſubmit themſelves unto the righteouſneſs of God,</hi> Rem 10.1, 2, 3. And I wiſh from my foul, that you your ſelves (whatever your pretences are of love unto Chriſt) be<g ref="char:EOLhyphen"/>ing too much ignorant (I fear) of Gods righteouſneſs, or the righte<g ref="char:EOLhyphen"/>ouſneſs of the Lord Jeſus Chriſt (whoſe name and whoſe memori<g ref="char:EOLhyphen"/>al for ever is, <hi>THE LORD O<g ref="char:V">Ʋ</g>R RIGHTEO<g ref="char:V">Ʋ</g>SNESS,</hi> Jerem. 23.6. and in whoſe <hi>righteouſneſs,</hi> both you and I, and all others muſt be found cloathed and <hi>arrayed</hi> in, if ever we think to ſtand before him at the laſt day, <hi>Rev.</hi> 19.8.) That you (I ſay) do not go about to eſtabliſh a <hi>ſelfiſh righteouſneſs,</hi> or <hi>a righteouſneſs of your own,</hi> in oppoſition to the <hi>righteouſ<g ref="char:EOLhyphen"/>neſs of God.</hi> But know and conſider well, <hi>That Chriſt is the end of the Law for righteouſneſs to every one that beleeveth,</hi> Rom. 10 4. And as he <hi>was made of God unto us Wiſdom and Righteouſneſs, &amp;c.</hi> 1 Cor. 1.30. So alſo was he <hi>made ſin for us, who knew no ſin, that we might be made the righteouſneſs of God in him.</hi> Our righteouſneſs is onely in Chriſt, and in beleeving in him; But does not your Queſtion imply clearly that you go about to eſtabliſh and ſet up another righteouſneſs then the righteouſneſs of Chriſt, even a righteouſneſs of your own, when you ſay, Is not all righteouſneſs ſelfiſh, while, <hi>&amp;c.</hi> man <hi>beleeveth not in the light that comes from</hi> Chriſt Gods righteouſneſs? What are we to be<g ref="char:EOLhyphen"/>leeve in the light that comes from Chriſt? and will ſuch a faith entitle us unto a righteouſneſs that is not ſelfiſh? Surely, if this be not an e<g ref="char:EOLhyphen"/>ſtabliſhing of our own righteouſneſs, even that ſelfiſh righteouſneſs which you ſeem to find fault with, I know not what is; are theſe <hi>wholeſom words,</hi> even the words of our Lord Jeſus Chriſt, <hi>and the doctrine, which is according to godlineſs?</hi> 1 Tim. 6.3. Is this the <hi>faith of the Goſpel</hi> which we are exhorted to <hi>ſtrive together for?</hi> 1 Phil. 2.7. or is it the <hi>faith which was once delivered unto the Saints,</hi> which we are to con<g ref="char:EOLhyphen"/>tend earneſtly for? <hi>Jud.</hi> 3. Surely, theſe are wholeſome words, and the doctrine which is according to godlineſs, when we perſwade men to beleeve in God, and to beleeve alſo in the Lord Jeſus Chriſt, <hi>Joh.</hi> 14.1 To beleeve in the light (that is) in Chriſt the light, <hi>Joh.</hi> 12.35, 36. The light that came into the world, Verſ. 46. The true light, Joh. 1.9. Yea the light of the world, <hi>Joh.</hi> 8.12. And in this faith a<g ref="char:EOLhyphen"/>lone are we to expect the imputation of righteouſneſs, <hi>Rom.</hi> 4.22. And not in the beleeving in the light which comes from Chriſt, which
+<pb n="9" facs="tcp:117930:6"/>whether it be this, or Chriſt, which you call Gods righteouſneſs, I know not. But this know, that that which I am to beleeve in muſt be my righteouſneſs, and my ſalvation, and this is not in the light that comes from Chriſt, but in Chriſt himſelf, The <hi>bright Morning Star,</hi> Rev. 22.16. The <hi>Day ſpring from on high,</hi> Luk. 1.78. The <hi>Sun of Righteouſneſs,</hi> Mal. 4.2. The <hi>Fountain of Light,</hi> The <hi>foundation of my Reconciliation, Justification, Sanctification and Salvation,</hi> Act. 4.12.</p>
+            <p>
+               <hi>For him hath God given not onely to be a Light unto the Gentiles, but alſo to be his Salvation to the end of the Earth,</hi> Iſa. 49.6.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
